@@ -1,4 +1,4 @@
-### Arbeidspraksisblog 
-Dette er en blog fra arbeidspraksis ved beat
+# Blog
 
-Laget med jekyll og basert på [jekyll-simple](http://www.wildflame.me/jekyll-simple).
+Made with jackyll, based on [jekyll-simple](http://www.wildflame.me/jekyll-simple).
+This is a github pages project so you may go to https://thomashrb.github.io/ to view the "compiled" blog.
