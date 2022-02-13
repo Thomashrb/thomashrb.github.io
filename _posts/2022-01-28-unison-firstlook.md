@@ -8,7 +8,7 @@ category:  unison
 
 ![]({{site.baseurl}}/assets/img/unisonlogo.png)
 
-_Its unison![unison](https://www.unisonweb.org) is a (as of writing this) alpha release language_
+_Its unison! Unison is a (as of writing this) alpha release language_
 _I am by no means an expert in unison so the following is my summary after a deep dive in the [documentation](https://www.unisonweb.org/docs)_
 
 The lowdown of unison is that it is a functional language that applies the concept of [content addressed storage](https://en.wikipedia.org/wiki/Content-addressable_storage) to the how
